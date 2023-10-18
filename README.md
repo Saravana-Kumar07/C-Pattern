@@ -53,7 +53,7 @@ namespace PascalTriangleDemo
 
 ## Output:
 
-![](./out1.PNG)
+![output](./out1.PNG)
 
 
 ## Result:
