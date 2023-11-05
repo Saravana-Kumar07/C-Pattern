@@ -57,4 +57,4 @@ namespace PascalTriangleDemo
 
 
 ## Result:
-C# program for a pascal's triangle is executed successfully.
+Thus the C# program for a pascal's triangle is executed successfully.
